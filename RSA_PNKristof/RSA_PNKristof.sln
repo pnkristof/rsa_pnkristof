@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_ConsoleApp", "RSA_ConsoleApp\RSA_ConsoleApp.csproj", "{8D828E99-86F6-4B25-A0C7-669E57D2F20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{39A0A6FC-76CC-4040-835D-E714711CD77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D828E99-86F6-4B25-A0C7-669E57D2F20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D828E99-86F6-4B25-A0C7-669E57D2F20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D828E99-86F6-4B25-A0C7-669E57D2F20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D828E99-86F6-4B25-A0C7-669E57D2F20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A0A6FC-76CC-4040-835D-E714711CD77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A0A6FC-76CC-4040-835D-E714711CD77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A0A6FC-76CC-4040-835D-E714711CD77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A0A6FC-76CC-4040-835D-E714711CD77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1BFFE1-19AD-4ABD-83C1-A73B485E7055}
+	EndGlobalSection
+EndGlobal

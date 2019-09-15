@@ -1,0 +1,6 @@
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.pdb
