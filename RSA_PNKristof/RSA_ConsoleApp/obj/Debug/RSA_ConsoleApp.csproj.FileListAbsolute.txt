@@ -8,6 +8,16 @@ C:\Users\pnkri\source\repos\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleAp
 C:\Users\pnkri\source\repos\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.csproj.CopyComplete
 C:\Users\pnkri\source\repos\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.exe
 C:\Users\pnkri\source\repos\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.pdb
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.exe.config
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.exe
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.pdb
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\Algorithms.dll
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\Algorithms.pdb
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.csprojAssemblyReference.cache
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.csproj.CopyComplete
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.exe
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\RSA_ConsoleApp\obj\Debug\RSA_ConsoleApp.pdb
 C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.exe.config
 C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.exe
 C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_ConsoleApp\bin\Debug\RSA_ConsoleApp.pdb

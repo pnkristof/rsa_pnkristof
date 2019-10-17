@@ -19,7 +19,7 @@ namespace Algorithms
             {
                 string smallInt = "1";
 
-                for (int j = 0; j < 8; j++)
+                for (int j = 0; j < 7; j++)
                 {
                     smallInt += rnd.Next(2).ToString();
                 }

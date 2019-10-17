@@ -39,7 +39,7 @@ namespace Algorithms
         }
 
 
-        public static BigInteger Extended(BigInteger number1, BigInteger number2)
+        public static List<BigInteger> Extended(BigInteger number1, BigInteger number2)
         {
             // swap if required
             if (number2 > number1)
@@ -69,7 +69,7 @@ namespace Algorithms
             };
 
             int index = 1;
-            Console.WriteLine(columns[0].toString() + columns[1].toString());
+            //Console.WriteLine(columns[0].toString() + columns[1].toString());
 
             while (true)
             {
@@ -96,8 +96,8 @@ namespace Algorithms
             BigInteger finalY = BigInteger.Pow(-1, columns[columns.Count() - 1].Index) * columns[columns.Count() - 2].y;
 
             // just some writeline:
-            Console.WriteLine($"final X = {finalX}\nfinal Y = {finalY}");
-            Console.WriteLine($"{columns[columns.Count() - 2].Remainder} = {columns[0].Remainder} * {finalX} + {columns[1].Remainder} * {finalY}");
+            //Console.WriteLine($"final X = {finalX}\nfinal Y = {finalY}");
+            //Console.WriteLine($"{columns[columns.Count() - 2].Remainder} = {columns[0].Remainder} * {finalX} + {columns[1].Remainder} * {finalY}");
 
             // doublecheck
             if (columns[columns.Count() - 2].Remainder != columns[0].Remainder * finalX + columns[1].Remainder * finalY)
@@ -105,7 +105,12 @@ namespace Algorithms
                 throw new Exception("Something is not right :(");
             }
 
-            return columns[columns.Count() - 2].Remainder;
+            return new List<BigInteger>
+            {
+                columns[columns.Count() - 2].Remainder,
+                columns[columns.Count() - 2].x,
+                columns[columns.Count() - 2].y
+            };
         }
     }
 }

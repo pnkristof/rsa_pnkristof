@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Numerics;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Algorithms
 {
@@ -35,9 +33,7 @@ namespace Algorithms
                 result *= pows[(int)bit];
             }
 
-            result = result % mod;
-
-            return result;
+            return result % mod;
         }
 
         // from external source

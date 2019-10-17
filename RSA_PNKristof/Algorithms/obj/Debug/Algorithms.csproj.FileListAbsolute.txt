@@ -4,3 +4,14 @@ C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csproj
 C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.dll
 C:\Users\pnkri\source\repos\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.pdb
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.dll
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.pdb
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.dll
+c:\Users\hallgato\Downloads\rsa_pnkristof-master\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\Algorithms\obj\Debug\Algorithms.pdb
