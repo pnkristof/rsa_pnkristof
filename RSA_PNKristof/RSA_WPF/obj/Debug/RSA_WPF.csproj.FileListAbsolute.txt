@@ -1,0 +1,15 @@
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\bin\Debug\RSA_WPF.exe.config
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\bin\Debug\RSA_WPF.exe
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\bin\Debug\RSA_WPF.pdb
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.csprojAssemblyReference.cache
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\App.g.cs
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF_MarkupCompile.cache
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF_MarkupCompile.lref
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\MainWindow.baml
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.g.resources
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.Properties.Resources.resources
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.csproj.GenerateResource.cache
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.exe
+C:\Users\pnkri\Repositories\rsa_pnkristof\RSA_PNKristof\RSA_WPF\obj\Debug\RSA_WPF.pdb

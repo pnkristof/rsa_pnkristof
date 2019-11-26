@@ -1,7 +1,9 @@
 ﻿using Algorithms;
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Numerics;
+using System.Text;
 
 namespace RSA_ConsoleApp
 {
@@ -49,10 +51,19 @@ namespace RSA_ConsoleApp
                 }
 
             }
+            
+            Algorithms.RSA rsa = new RSA(100);
+            Console.WriteLine(rsa.toString());
+            string message = Console.ReadLine();
+            //Console.WriteLine(Text.StringToBinary(message));
+            BigInteger encryped = rsa.Encrypt(BigInteger.Parse(message));
+
+            Console.WriteLine("encrypted: " + encryped);
+            var decrypted = rsa.Decrypt(encryped);
+            Console.WriteLine("Decrypted: " + decrypted);
+            //Console.WriteLine(Text.BinaryToString(decrypted));
+            
             Console.ReadKey();
-
-
-
         }
     }
 }

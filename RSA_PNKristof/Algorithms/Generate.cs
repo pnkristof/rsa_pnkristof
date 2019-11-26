@@ -42,5 +42,23 @@ namespace Algorithms
             return oddBigInt;
         }
 
+        public static BigInteger Prime(int bits)
+        {
+            var prime = OddBigInt(bits);
+
+            while (!MillerRabin.IsPrime(prime))
+            {
+                if (prime.IsEven)
+                {
+                    prime += 3;
+                }
+                else
+                {
+                    prime += 2;
+                }
+            }
+
+            return prime;
+        }
     }
 }
