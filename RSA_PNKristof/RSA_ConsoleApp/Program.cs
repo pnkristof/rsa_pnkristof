@@ -52,13 +52,14 @@ namespace RSA_ConsoleApp
 
             }
             
-            Algorithms.RSA rsa = new RSA(100);
+            Algorithms.RSA rsa = new RSA(200);
             Console.WriteLine(rsa.toString());
+            Console.WriteLine("\n\nMessage:\n");
             string message = Console.ReadLine();
             //Console.WriteLine(Text.StringToBinary(message));
             BigInteger encryped = rsa.Encrypt(BigInteger.Parse(message));
 
-            Console.WriteLine("encrypted: " + encryped);
+            Console.WriteLine("Encrypted: " + encryped);
             var decrypted = rsa.Decrypt(encryped);
             Console.WriteLine("Decrypted: " + decrypted);
             //Console.WriteLine(Text.BinaryToString(decrypted));

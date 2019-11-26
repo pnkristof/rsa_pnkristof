@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Numerics;
 
 namespace Algorithms
 {
@@ -18,17 +13,22 @@ namespace Algorithms
         
         public RSA(int SizeOfPRimes)
         {
-
-            P = Generate.Prime(SizeOfPRimes);
-            Q = Generate.Prime(SizeOfPRimes);
-            while (Q == P)
+            while (true)
             {
+                P = Generate.Prime(SizeOfPRimes);
                 Q = Generate.Prime(SizeOfPRimes);
+                while (Q == P)
+                {
+                    Q = Generate.Prime(SizeOfPRimes);
+                }
+                N = P * Q;
+                Fi_N = (P - 1) * (Q - 1);
+                E = FindE(SizeOfPRimes);
+                D = FindD(SizeOfPRimes);
+
+
+                if (this.Decrypt(Encrypt(123)) == 123) break;
             }
-            N = P * Q;
-            Fi_N = (P - 1) * (Q - 1);
-            E = FindE(SizeOfPRimes);
-            D = FindD(SizeOfPRimes);
         }
 
         private BigInteger FindE(int size)
